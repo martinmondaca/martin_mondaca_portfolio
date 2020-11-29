@@ -13,19 +13,28 @@ nav {
     margin: 10px;
 }
 
-h2, p {
+h2, section {
     background-color: gainsboro;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
     border-style: solid;
     border-width: 5px 10px;
     border-radius: 10px;
-    padding: 10px;
+    padding: 15px;
     margin-top: 10px;
+}
+
+p {
+    text-indent: 50px;
+}
+
+.figure {
+   padding: 5px;
 }
 
 footer {
     background-color: black;
     padding: 10px;
+    margin: 10px;
 }
 
 .fa-linkedin {
@@ -40,3 +49,4 @@ footer {
     color: white;
     margin: 0px 5px;
 }
+
