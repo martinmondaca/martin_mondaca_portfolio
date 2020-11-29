@@ -10,15 +10,15 @@ In the process of completing this project I was able to inscrease my knowledge o
 
 ## Desktop Webpage Images
 
-![Screenshot of home webpage](images/desktop_home_screenshot)
-![Screenshot of portfolio webpage](images/desktop_portfolio_screenshot)
-![Screenshot of contact webpage](images/desktop_contact_screenshot)
+![Screenshot of home webpage](images/desktop_home_screenshot.png)
+![Screenshot of portfolio webpage](images/desktop_portfolio_screenshot.png)
+![Screenshot of contact webpage](images/desktop_contact_screenshot.png)
 
 ## Mobile Webpage Images
 
-[Screenshot of home webpage](images/mobile_home_screenshot)
-[Screenshot of portfolio webpage](images/mobile_portfolio_screenshot)
-[Screenshot of contact webpage](images/mobile_contact_screenshot)
+![Screenshot of home webpage](images/mobile_home_screenshot.png)
+![Screenshot of portfolio webpage](images/mobile_portfolio_screenshot.png)
+![Screenshot of contact webpage](images/mobile_contact_screenshot.png)
 
 ## Deployed Link
 
