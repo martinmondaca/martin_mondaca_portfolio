@@ -13,6 +13,10 @@ nav {
     margin: 10px;
 }
 
+#personal-image {
+    width: 250px;
+}
+
 h2, section {
     background-color: gainsboro;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
