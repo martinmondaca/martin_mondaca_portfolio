@@ -35,6 +35,11 @@ p {
    padding: 5px;
 }
 
+.app-image {
+    height:250px;
+    width: 250px;
+}
+
 footer {
     background-color: black;
     padding: 10px;
